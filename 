@@ -1,0 +1,30 @@
+[33mcommit 5d2caeadecf4dd60b0fa4dd8a2bbfdd1bf520a24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: fff87ff fad5e5a
+Author: Vanderson Nascimento <vando.nsc@gmail.com>
+Date:   Fri Mar 17 21:46:10 2023 -0300
+
+    Merge branch 'titulo'
+
+[33mcommit fff87ff71da70b65e7172e8f816878355058736b[m
+Author: Vanderson Nascimento <vando.nsc@gmail.com>
+Date:   Fri Mar 17 21:44:41 2023 -0300
+
+    corrigindo o nome do curso de docker
+
+[33mcommit fad5e5aa7401283bc3bbc4a3b1c25ce54dfd0bfa[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Vanderson Nascimento <vando.nsc@gmail.com>
+Date:   Fri Mar 17 20:17:52 2023 -0300
+
+    Mudando titulo da pagina
+
+[33mcommit 2b1616217a34bfa09d5ee7070b818255f8bdf090[m[33m ([m[1;31mservlocal/master[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Vanderson Nascimento <vando.nsc@gmail.com>
+Date:   Thu Mar 16 20:30:47 2023 -0300
+
+    mudando outra vez o titulo do curso
+
+[33mcommit 6864061626c2e322711519ff896750e4349bf0d0[m
+Author: Vanderson Nascimento <vando.nsc@gmail.com>
+Date:   Thu Mar 16 19:46:25 2023 -0300
+
+    Adicionando mais caractéres
